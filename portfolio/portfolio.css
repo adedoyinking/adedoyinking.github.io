@@ -1,0 +1,55 @@
+h1 {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom: 2px solid #4ca1af;
+	border-right: 2px solid #4ca1af;
+	width: 50%;
+	line-height: 80%;
+	margin: 0 auto;
+	box-shadow: 4px 4px 5px #888888
+}
+body{
+	background-color: #c4e0e5;
+	font-family: cursive;
+}
+img{
+	width: 230px;
+	height: 260px;
+	border-radius: 50%;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	margin-top: 20px;
+
+}
+footer a{
+	color: #4ca1af;
+}
+footer a:hover{
+	color: black !important;
+}
+a:hover {
+	font-weight: bolder;
+}
+.dropdown-menu{
+	background-color: #c4e0e5;
+}
+.btn{
+	color: black !important;
+	border-color: black !important;
+}
+
+.navbar {
+	background-color: #4ca1af !important;
+}
+#my_content{
+	text-align: center;
+	width: 50%;
+	margin:0 auto;
+}
+.col-md-12{
+	text-align: center;
+}
+.pt-5{
+	margin-bottom: 0px !important;
+}
